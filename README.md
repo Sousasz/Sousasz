@@ -1,4 +1,4 @@
-## Olá, meu nome é Vinicius!
+## <i>Olá, meu nome é Vinicius!</i>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sousasz&show_icons=true&theme=dark)
 
@@ -15,4 +15,4 @@
   <img align="center" alt="Sousa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<i>Olá</i>
+
