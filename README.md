@@ -1,6 +1,6 @@
 ## <i>Olá, meu nome é Vinicius!</i>
 
-<p align="center">Meu nome é Vinicius Morais e atuo em ensino técnico e Análise e desenvolvimento de sistemas</p>
+<p>Meu nome é Vinicius Morais e atuo em ensino técnico e Análise e desenvolvimento de sistemas</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sousasz&show_icons=true&theme=dark)
 
@@ -8,7 +8,8 @@
  <p>Minhas redes sociais</p>
   <a href="https://instagram.com/sousasxy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vm1434072@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+
+  <br>
   
 </div>
 <p>Linguagens mais usadas por mim</p>
