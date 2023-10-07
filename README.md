@@ -1,6 +1,7 @@
 ## <i>Olá, meu nome é Vinicius!</i>
 
-#### Atual estudante da Etec Paulistano em busca de meu maior sonho!<br>
+#### Atual estudante da Etec Paulistano em busca de meu maior sonho!  
+
 
   - ## Meus status
 
