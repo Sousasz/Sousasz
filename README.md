@@ -2,7 +2,7 @@
 
 #### Atual estudante da Etec Paulistano em busca de meu maior sonho!<br>
 
-  - ## Meu status
+  - ## Meus status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sousasz&show_icons=true&theme=dark)
 
