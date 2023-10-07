@@ -11,7 +11,7 @@
 
  
 </div>
- - Linguagens mais usadas por mim 👨‍💻
+ - Linguagens mais usadas por mim👨‍💻
 <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Sousa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
