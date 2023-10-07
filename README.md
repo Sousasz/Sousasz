@@ -12,6 +12,8 @@
   <a href = "mailto:vm1434072@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+
+
  - Linguagens mais usadas por mim👨‍💻
    
 <div style="display: inline_block"><br>
