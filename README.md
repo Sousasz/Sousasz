@@ -1,6 +1,6 @@
 ## <i>Olá, meu nome é Vinicius!</i>
 
-<p color="black">Meu nome é Vinicius Morais e atuo em ensino técnico e Análise e desenvolvimento de sistemas</p>
+<p align="center">Meu nome é Vinicius Morais e atuo em ensino técnico e Análise e desenvolvimento de sistemas</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sousasz&show_icons=true&theme=dark)
 
