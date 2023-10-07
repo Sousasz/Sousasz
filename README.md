@@ -1,6 +1,7 @@
 ## <i>Olá, meu nome é Vinicius!</i>
 
-<p>Meu nome é Vinicius Morais e atuo em ensino técnico e Análise e desenvolvimento de sistemas</p>
+#### Meu nome é Vinicius Morais e atuo em ensino técnico e Análise e desenvolvimento de sistemas
+Eu amo a área de programação e meu objetivo é se tornar um Developer Fullstack
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sousasz&show_icons=true&theme=dark)
 
