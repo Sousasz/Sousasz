@@ -4,7 +4,11 @@
 
 > Amo programação web
 > 
-> Futuro Desenvolvedor Front-End
+> Futuro Desenvolvedor Full-stack
+>
+> Focando atualmente em Javascript e Banco de Dados
+>
+> Ânimo e dedição não podem faltar!
 
 
   - ## Meus status
