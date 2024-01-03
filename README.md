@@ -2,16 +2,15 @@
 
 #### Atual estudante da Etec Paulistano em busca de meu maior sonho!
 
-> Amo programação web
+> Amo programação web e mobile
 > 
-> Futuro Desenvolvedor Full-stack
+> Futuro Desenvolvedor Front-End
 >
-> Focando atualmente em Javascript e Banco de Dados
+> Focando atualmente em React
 >
-> Ânimo e dedição não podem faltar!
 
 
-  - ## Meus status
+  - ## Meu status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sousasz&show_icons=true&theme=dark)
 
@@ -29,4 +28,5 @@
   <img align="center" alt="Sousa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sousa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Sousa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Sousa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
