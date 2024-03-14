@@ -1,6 +1,6 @@
 ## <i>Olá, meu nome é Vinicius!</i>
 
-#### Atual estudante da Etec Paulistano correndo em meu objetivo!
+#### Atual estudante da Etec Paulistano correndo atrás do meu objetivo!
 
 > Amo programação web e mobile
 > 
