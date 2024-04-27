@@ -2,11 +2,11 @@
 
 #### Atual estudante da Etec Paulistano correndo atrás do meu objetivo!
 
-> Amo programação web e mobile
+> Eu amo desenvolver aplicações web e mobile
 > 
-> Futuro Desenvolvedor Front-End
+> Dev Front-end
 >
-> Focando atualmente em React
+> Estudando ReactJS e React Native
 >
 
 
@@ -28,4 +28,5 @@
   <img align="center" alt="Sousa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Sousa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Sousa-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Sousa-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
