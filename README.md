@@ -2,9 +2,9 @@
  
 #### Atual estudante da Etec Paulistano correndo atrás do meu objetivo!
 
-> Eu amo desenvolver aplicações web e mobile
+> Eu amo programar e para mim isso vai além do código...
 > 
-> Dev Front-end
+> Dev Front-end buscando futuramente se tornar Full-Stack
 >
 > Estudando ReactJS e React Native
 >
