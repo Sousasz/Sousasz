@@ -2,11 +2,11 @@
 
 #### Estudante da Etec Paulistano cursando Desenvolvimento de Sistemas
 
-> Eu amo programar e para mim isso vai além do código...
+> Dev Front-end estudando em busca de se tornar Full-Stack
 > 
-> Dev Front-end buscando futuramente se tornar Full-Stack
+> Programação vai além do código, é saber ouvir e lidar com pessoas
 >
-> Estudando ReactJS e React Native
+> Focado no Desenvolvimento Web e Mobile
 >
 
 
