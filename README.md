@@ -2,11 +2,11 @@
  
 #### Estudante da Etec Paulistano cursando Desenvolvimento de Sistemas
 
-> Dev Front-end estudando em busca de se tornar Full-Stack
+> Desenvolvedor Front-End
 > 
-> Programação vai além do código, é saber ouvir e lidar com pessoas
->
 > Focado no Desenvolvimento Web e Mobile
+>
+> "Meu medo é a principal motivação para continuar em frente"
 >
 
 
