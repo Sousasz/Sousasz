@@ -17,7 +17,7 @@
   - ## Minha principal rede social 🤳
    
 <div>
-  <a href="https://instagram.com/sousasxy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/sousaodev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div><br>
 
   - ##  Tecnologias usadas por mim👨‍💻
