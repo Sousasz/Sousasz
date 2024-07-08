@@ -22,7 +22,6 @@
 
   - ##  Tecnologias 👨‍💻
 <div style="display: inline_block">
-  <img align="center" alt="Sousa-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html.svg">
-  <img align="center" alt="Sousa-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Sousa-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Sousa-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Sousa-react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
