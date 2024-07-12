@@ -8,10 +8,6 @@
 >
 > "Meu medo é a principal motivação para continuar em frente"
 >
-
-
-  - ## Meu status
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sousasz&show_icons=true&theme=dark)
 
   - ## Minha principal rede social 🤳
