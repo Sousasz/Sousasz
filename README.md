@@ -25,7 +25,7 @@
 </div>
 <br />
 
-    - ## Design
+  - ## Design
 
 <div style="display: inline_block">
   <img align="center" alt="Sousa-figma" height="40" width="50" src="https://skillicons.dev/icons?i=figma" />
