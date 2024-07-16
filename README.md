@@ -20,6 +20,6 @@
   <img align="center" alt="Sousa-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sousa-react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Sousa-bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img src="./icons/CSS.svg" width="48"> 
+  <img align="center" alt="Sousa-css" height="40" width="50" src="https://skillicons.dev/icons?i=css" />
 
 </div>
