@@ -1,13 +1,9 @@
  ## Prazer! Meu nome é Vinicius Morais  
 
 ```js
-const life = () => {
  if(!sucess) {
    return tryAgain()
  }
-}
-
-
 ```
  
  Sou uma pessoa obcecada por programação e que busca estar constantemente estudando. Quero sempre entregar o meu melhor independente dos possíveis erros e crescer cada vez mais dentro da área
