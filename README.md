@@ -2,7 +2,7 @@
 
 ```js
  if(!sucess) {
-   console.error("Nenhum caminho encontrado, tente novamente")
+   console.error("Try again")
  }
 ```
  
@@ -27,7 +27,7 @@
   <img align="center" alt="Sousa-bootstrap" height="40" width="50" src="https://skillicons.dev/icons?i=bootstrap" />
   <img align="center" alt="Sousa-css" height="40" width="50" src="https://skillicons.dev/icons?i=css" />
   <img align="center" alt="Sousa-figma" height="40" width="50" src="https://skillicons.dev/icons?i=figma" />
-  <img align="center" alt="Sousa-hml" height="40" width="50" src="https://skillicons.dev/icons?i=figma" />
+  <img align="center" alt="Sousa-html" height="40" width="50" src="https://skillicons.dev/icons?i=html" />
 </div>
 <br />
 
