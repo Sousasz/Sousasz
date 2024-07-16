@@ -15,8 +15,8 @@
 <a href="https://www.linkedin.com/in/vinicius-morais-3980b32a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div><br>
 
-  - ##  Tecnologias 👨‍💻🛠
-      - # Desenvolvimento
+  - #  Tecnologias 👨‍💻🛠
+      - ## Desenvolvimento
 <div style="display: inline_block">
   <img align="center" alt="Sousa-js" height="40" width="50" src="https://skillicons.dev/icons?i=js" />
   <img align="center" alt="Sousa-react" height="40" width="50" src="https://skillicons.dev/icons?i=react" />
@@ -25,7 +25,7 @@
 </div>
 <br />
 
- - # Design
+    - ## Design
 
 <div style="display: inline_block">
   <img align="center" alt="Sousa-figma" height="40" width="50" src="https://skillicons.dev/icons?i=figma" />
