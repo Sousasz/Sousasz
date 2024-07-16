@@ -2,7 +2,7 @@
 
 ```js
  if(!sucess) {
-   console.error("Tentar novamente")
+   console.error("Nenhum caminho encontrado, tente novamente")
  }
 ```
  
