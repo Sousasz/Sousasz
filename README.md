@@ -1,10 +1,8 @@
 ## <i>Olá, meu nome é Vinicius Morais!</i>
   
-- Estudante da Etec Paulistano cursando Desenvolvimento de Sistemas
-  
-> Desenvolvedor Front-End
+- Sou uma pessoa obcecada pela programação
 > 
-> Focado no Desenvolvimento Web e Mobile
+> Desenvolvimento Web e Mobile
 >
 > "Meu medo é a principal motivação para continuar em frente"
 >
@@ -17,9 +15,10 @@
 <a href="https://www.linkedin.com/in/vinicius-morais-3980b32a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div><br>
 
-  - ##  Tecnologias 👨‍💻
+  - ##  Tecnologias 👨‍💻🛠
 <div style="display: inline_block">
   <img align="center" alt="Sousa-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sousa-react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Sousa-bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Sousa-css" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg">
 </div>
