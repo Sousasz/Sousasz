@@ -22,11 +22,11 @@
   <img align="center" alt="Sousa-react" height="40" width="50" src="https://skillicons.dev/icons?i=react" />
   <img align="center" alt="Sousa-bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Sousa-css" height="40" width="50" src="https://skillicons.dev/icons?i=css" />
+
+   - ## Design
+
+  <img align="center" alt="Sousa-figma" height="40" width="50" src="https://skillicons.dev/icons?i=figma" />
 </div>
 <br />
 
-  - ## Design
 
-<div style="display: inline_block">
-  <img align="center" alt="Sousa-figma" height="40" width="50" src="https://skillicons.dev/icons?i=figma" />
-</div>
