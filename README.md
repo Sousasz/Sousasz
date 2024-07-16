@@ -1,6 +1,13 @@
-## <i>Olá, meu nome é Vinicius Morais!</i>
-  
-- Sou uma pessoa obcecada pela programação
+```js
+const user = {
+  name: "Vinicius Morais",
+  yearsOld: 16,
+  state: "Studying"
+}
+```
+   
+ ### Sou uma pessoa obcecada por programação e que busca estar constantemente estudando. Quero sempre entregar o meu melhor independente dos possíveis erros e crescer cada vez mais dentro da área
+ 
 > 
 > Desenvolvimento Web e Mobile
 >
