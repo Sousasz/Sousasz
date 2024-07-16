@@ -1,12 +1,12 @@
+ ## Prazer! Meu nome é Vinicius Morais  
+
 ```js
-const user = {
-  name: "Vinicius Morais",
-  yearsOld: 16,
-  state: "Studying"
+while(!sucess) {
+  console.log("Tentar novamente")
 }
 ```
-   
- ### Sou uma pessoa obcecada por programação e que busca estar constantemente estudando. Quero sempre entregar o meu melhor independente dos possíveis erros e crescer cada vez mais dentro da área
+ 
+ Sou uma pessoa obcecada por programação e que busca estar constantemente estudando. Quero sempre entregar o meu melhor independente dos possíveis erros e crescer cada vez mais dentro da área
  
 > 
 > Desenvolvimento Web e Mobile
