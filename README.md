@@ -1,9 +1,12 @@
  # Prazer! Meu nome é Vinicius Morais  
 
 ```js
- if(!sucess) {
-   console.error("Try again")
- }
+let sucess = prompt("True or false?")
+
+while(sucess !== true) {
+ alert("Try again")
+ sucess = prompt("True or false?")
+}
 ```
  
  Sou uma pessoa obcecada por programação e que busca estar constantemente estudando. Quero sempre entregar o meu melhor independente dos possíveis erros e crescer cada vez mais dentro da área
