@@ -2,7 +2,7 @@
 
 ```js
  if(!sucess) {
-   return tryAgain()
+   console.error("Tentar novamente")
  }
 ```
  
