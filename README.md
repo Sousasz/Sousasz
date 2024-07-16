@@ -11,8 +11,6 @@
 > 
 > Desenvolvimento Web e Mobile
 >
-> "Meu medo é a principal motivação para continuar em frente"
->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sousasz&show_icons=true&theme=dark)
 
   - ## Minhas redes sociais 🤳
