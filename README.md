@@ -1,11 +1,8 @@
  # Prazer! Meu nome é Vinicius Morais  
 
 ```js
-let sucess = prompt("True or false?")
-
-while(sucess !== "true") {
- alert("Try again")
- sucess = prompt("True or false?")
+if(!sucess) {
+ tryAgain()
 }
 ```
  
