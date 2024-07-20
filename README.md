@@ -6,7 +6,7 @@ if(!sucess) {
 }
 ```
  
- Sou uma pessoa obcecada por programação e que busca estar constantemente estudando. Quero sempre entregar o meu melhor independente dos possíveis erros e crescer cada vez mais dentro da área
+ Sou uma pessoa obcecada por programação e que busca estar constantemente estudando. Quero sempre entregar o meu melhor, aprender e crescer cada vez mais dentro da área
  
 >
 > Desenvolvedor Front-end
