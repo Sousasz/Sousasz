@@ -30,7 +30,7 @@ if(!sucess) {
   <img align="center" alt="Sousa-react" height="40" width="50" src="https://skillicons.dev/icons?i=react" />
   <img align="center" alt="Sousa-bootstrap" height="40" width="50" src="https://skillicons.dev/icons?i=bootstrap" />
   <img align="center" alt="Sousa-figma" height="40" width="50" src="https://skillicons.dev/icons?i=figma" />
-
+  <img align="center" alt="Sousa-tailwind" height="40" width="50" src="https://skillicons.dev/icons?i=tailwind" />
 </div>
 <br />
 
