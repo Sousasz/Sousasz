@@ -21,7 +21,7 @@ const vinicius = {
 </div>
 <br />
  
- Sou um Desenvolvedor Front-end apaixonado por programação e que sempre está em busca do trabalho contínuo. Meu intuito é entregar o melhor em tudo o que eu faço, visando sempre o crescimento na minha área de atuação.
+ Sou um Desenvolvedor Front-end apaixonado por programação e que sempre está em busca do trabalho contínuo. Meu intuito é entregar o melhor em tudo o que eu faço, visando sempre o crescimento na minha área de atuação. <br />
  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sousasz&show_icons=true&theme=dark) <br /> <br />
