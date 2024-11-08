@@ -14,6 +14,7 @@ if(!sucess) {
 > Desenvolvimento Web e Mobile
 >
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sousasz&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
    ## Fale comigo 🤳
    
@@ -26,7 +27,8 @@ if(!sucess) {
 <div style="display: inline_block">
    <img align="center" alt="Sousa-html" height="40" width="50" src="https://skillicons.dev/icons?i=html" />
    <img align="center" alt="Sousa-css" height="40" width="50" src="https://skillicons.dev/icons?i=css" />
-  <img align="center" alt="Sousa-js" height="40" width="50" src="https://skillicons.dev/icons?i=js" />
+   <img align="center" alt="Sousa-js" height="40" width="50" src="https://skillicons.dev/icons?i=js" />
+   <img align="center" alt="Sousa-ts" height="40" width="50" src="https://skillicons.dev/icons?i=ts" />
   <img align="center" alt="Sousa-react" height="40" width="50" src="https://skillicons.dev/icons?i=react" />
   <img align="center" alt="Sousa-bootstrap" height="40" width="50" src="https://skillicons.dev/icons?i=bootstrap" />
   <img align="center" alt="Sousa-tailwind" height="40" width="50" src="https://skillicons.dev/icons?i=tailwind" />
