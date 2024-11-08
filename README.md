@@ -27,11 +27,7 @@ const user = {
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sousasz&show_icons=true&theme=dark) <br /> <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sousasz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
- 
-
-
-   ## Redes sociais 🤳
-   
+ ## Redes sociais 🤳
 <div>
   <a href="https://instagram.com/sousaodev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vinicius-morais-3980b32a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
