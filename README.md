@@ -1,5 +1,4 @@
  # Olá, meu nome é Vinicius! 👋
-<br />
 
 >
 > Estudante em Análise de Sistemas
