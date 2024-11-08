@@ -21,7 +21,7 @@ const user = {
   <img align="center" alt="Sousa-bootstrap" height="40" width="50" src="https://skillicons.dev/icons?i=bootstrap" />
   <img align="center" alt="Sousa-tailwind" height="40" width="50" src="https://skillicons.dev/icons?i=tailwind" />
   <img align="center" alt="Sousa-figma" height="40" width="50" src="https://skillicons.dev/icons?i=figma" />
-</div>
+</div> <br />
 
  ## Status 📄
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sousasz&show_icons=true&theme=dark) <br /> <br />
