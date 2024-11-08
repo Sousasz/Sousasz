@@ -8,9 +8,11 @@ const user = {
 }
 ```
 
+<br />
  ## Sobre mim ✨
- Sou um Desenvolvedor Front-end apaixonado por programação e que sempre está em busca do trabalho contínuo. Meu intuito é entregar o melhor em tudo o que eu faço, visando sempre o crescimento na minha área de atuação. <br />
- 
+ Sou um Desenvolvedor Front-end apaixonado por programação e que sempre está em busca do trabalho contínuo. Meu intuito é entregar o melhor em tudo o que eu faço, visando sempre o crescimento na minha área de atuação.
+
+<br /> 
  ## Tecnologias 🚀
 <div style="width: 100%; display: flex; align-items: center;">
    <img align="center" alt="Sousa-html" height="40" width="50" src="https://skillicons.dev/icons?i=html" />
@@ -23,10 +25,12 @@ const user = {
   <img align="center" alt="Sousa-figma" height="40" width="50" src="https://skillicons.dev/icons?i=figma" />
 </div>
 
+<br /> 
  ## Status 📄
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sousasz&show_icons=true&theme=dark) <br /> <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sousasz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<br /> 
  ## Redes sociais 🤳
 <div>
   <a href="https://instagram.com/sousaodev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
