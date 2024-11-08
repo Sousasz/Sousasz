@@ -1,7 +1,7 @@
  # Olá, meu nome é Vinicius!
 
 ```js
-const vinicius = {
+const usuario = {
  nome: "Vinicius Morais",
  idade: 16,
  desenvolvedor: true
