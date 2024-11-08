@@ -1,6 +1,5 @@
  # Olá, meu nome é Vinicius!
 
-   ##  Tecnologias 👨‍💻
 <div style="width: 100%; display: flex; align-items: center;">
    <img align="center" alt="Sousa-html" height="40" width="50" src="https://skillicons.dev/icons?i=html" />
    <img align="center" alt="Sousa-css" height="40" width="50" src="https://skillicons.dev/icons?i=css" />
