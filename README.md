@@ -1,8 +1,5 @@
  # Olá, meu nome é Vinicius!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sousasz&show_icons=true&theme=dark) <br /> <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
    ##  Tecnologias 👨‍💻
 <div style="width: 100%; display: flex; align-items: center;">
    <img align="center" alt="Sousa-html" height="40" width="50" src="https://skillicons.dev/icons?i=html" />
@@ -18,7 +15,9 @@
 <br />
 
  Sou um Desenvolvedor Front-end apaixonado por programação e que sempre está em busca do trabalho contínuo. Meu intuito é entregar o melhor em tudo o que eu faço, visando sempre o crescimento na minha área de atuação. <br /> <br />
- 
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sousasz&show_icons=true&theme=dark) <br /> <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
