@@ -11,7 +11,7 @@ const vinicius = {
  Sou um Desenvolvedor Front-end apaixonado por programação e que sempre está em busca do trabalho contínuo. Meu intuito é entregar o melhor em tudo o que eu faço, visando sempre o crescimento na minha área de atuação. <br /> <br />
 
    ##  Tecnologias 👨‍💻
-<div style="display: flex; align-items: center;">
+<div style="width: 100%; display: flex; align-items: center;">
    <img align="center" alt="Sousa-html" height="40" width="50" src="https://skillicons.dev/icons?i=html" />
    <img align="center" alt="Sousa-css" height="40" width="50" src="https://skillicons.dev/icons?i=css" />
    <img align="center" alt="Sousa-js" height="40" width="50" src="https://skillicons.dev/icons?i=js" />
