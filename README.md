@@ -1,8 +1,12 @@
  # Olá, meu nome é Vinicius! 👋
 
->
-> Estudante em Análise de Sistemas
->
+``` javascript
+const user = {
+ name: "Vinicius Morais",
+ yearsOld: 16,
+ state: "Student"
+}
+```
 
  ## Sobre mim ✨
  Sou um Desenvolvedor Front-end apaixonado por programação e que sempre está em busca do trabalho contínuo. Meu intuito é entregar o melhor em tudo o que eu faço, visando sempre o crescimento na minha área de atuação. <br />
