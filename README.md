@@ -1,22 +1,20 @@
- # Olá, eu sou o Vinicius, Desenvolvedor Front-end  
+ # Olá, eu sou o Vinicius, Desenvolvedor Front-end!
 
 ```js
-if(!sucess) {
- tryAgain()
+const vinicius = {
+ nome: "Vinicius Morais",
+ idade: 16,
+ desenvolvedor: true
 }
 ```
  
  Sou uma pessoa apaixonada por programação e sempre estou em busca do trabalho contínuo. Meu intuito é entregar o melhor em tudo o que eu faço, visando sempre o crescimento na minha área de atuação.
  
->
-> Desenvolvedor Front-end
-> 
-> Desenvolvimento Web e Mobile
->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sousasz&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-   ## Fale comigo 🤳
+   ## Redes sociais 🤳
    
 <div>
   <a href="https://instagram.com/sousaodev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
