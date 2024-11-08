@@ -7,19 +7,6 @@ const vinicius = {
  desenvolvedor: true
 }
 ```
- 
- Sou uma pessoa apaixonada por programação e sempre estou em busca do trabalho contínuo. Meu intuito é entregar o melhor em tudo o que eu faço, visando sempre o crescimento na minha área de atuação.
- 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sousasz&show_icons=true&theme=dark) <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-   ## Redes sociais 🤳
-   
-<div>
-  <a href="https://instagram.com/sousaodev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vinicius-morais-3980b32a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div><br>
 
    ##  Tecnologias 👨‍💻🛠
 <div style="display: inline_block">
@@ -33,5 +20,20 @@ const vinicius = {
   <img align="center" alt="Sousa-figma" height="40" width="50" src="https://skillicons.dev/icons?i=figma" />
 </div>
 <br />
+ 
+ Sou um Desenvolvedor Front-end apaixonado por programação e que sempre está em busca do trabalho contínuo. Meu intuito é entregar o melhor em tudo o que eu faço, visando sempre o crescimento na minha área de atuação.
+ 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sousasz&show_icons=true&theme=dark) <br /> <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+   ## Redes sociais 🤳
+   
+<div>
+  <a href="https://instagram.com/sousaodev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vinicius-morais-3980b32a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div><br>
+
+
 
 
