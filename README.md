@@ -11,7 +11,7 @@ const vinicius = {
  Sou uma pessoa apaixonada por programação e sempre estou em busca do trabalho contínuo. Meu intuito é entregar o melhor em tudo o que eu faço, visando sempre o crescimento na minha área de atuação.
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sousasz&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sousasz&show_icons=true&theme=dark) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
    ## Redes sociais 🤳
